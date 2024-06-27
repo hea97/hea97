@@ -7,10 +7,13 @@ The final destination is DBA</h3>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://litt.ly/taetaehee">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Growth
-      ">
-     <a href="https://velog.io/@heeeaaaa/posts">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Growth">
+  </a>
+  <a href="https://velog.io/@heeeaaaa/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+  </a>
+  <a href="https://coordinated-flame-0eb.notion.site/Heo-taehee-6b8785888370472484978b6f48d6b76d?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
 </p>
 
@@ -41,10 +44,8 @@ The final destination is DBA</h3>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
   <a href="https://cloud.google.com/">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-</a>
-
-<p align="left">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  </a>
 </p>
 
 <!-- GitHub Readme Stats - Top Languages -->
@@ -60,8 +61,5 @@ The final destination is DBA</h3>
 <!-- GitHub Readme Streak Stats -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hea97" alt="GitHub Streak Stats" />
-</p>
-
-
 </p>
 
