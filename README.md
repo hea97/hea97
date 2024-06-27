@@ -42,5 +42,3 @@ The final destination is DBA</h3>
   </a>
 </p>
 
-
-<p align="center" class="rainbow-text">taehee</p>
