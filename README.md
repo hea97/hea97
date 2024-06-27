@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm taehee</h1>
 <h3 align="center">I'm a student at GSM and I'm studying DB.
-The final destination is DBA
+The final destination is DBA</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://litt.ly/taetaehee">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
-- linkedin❤️ [https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/](https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/)
+<p align="center">
+  📫 How to reach me 
+ s24054@gsm.hs.kr
+</p>
 
-- What I'm promoting is **https://litt.ly/taetaehee**
-
-- 📫 How to reach me **s24054@gsm.hs.kr**
-
+<h3 align="center">What I'm learning and using</h3>
 
 <p align="center">
   <a href="https://www.mysql.com/">
@@ -27,6 +35,9 @@ The final destination is DBA
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   </a>
   <a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-</a>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
 </p>
+
+
+<p align="center" class="rainbow-text">taehee</p>
