@@ -40,5 +40,28 @@ The final destination is DBA</h3>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
+  <a href="https://cloud.google.com/">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</a>
+  <h3 align="left">나와 연결:</h3>
+<p align="left">
+</p>
+
+<!-- GitHub Readme Stats - Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hea97&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<!-- GitHub Readme Stats - General Stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hea97&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Readme Streak Stats -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hea97" alt="GitHub Streak Stats" />
+</p>
+
+
 </p>
 
