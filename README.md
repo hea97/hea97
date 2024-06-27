@@ -1,5 +1,3 @@
-about me
-
 <h1 align="center">Hi 👋, I'm taehee</h1>
 <h3 align="center">I'm a student at GSM and I'm studying DB.
 The final destination is DBA
