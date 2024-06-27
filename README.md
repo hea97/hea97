@@ -43,7 +43,7 @@ The final destination is DBA</h3>
   <a href="https://cloud.google.com/">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </a>
-  <h3 align="left">나와 연결:</h3>
+
 <p align="left">
 </p>
 
