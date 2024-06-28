@@ -15,11 +15,13 @@ The final destination is DBA</h3>
   <a href="https://coordinated-flame-0eb.notion.site/Heo-taehee-6b8785888370472484978b6f48d6b76d?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
+  <a href="https://discordapp.com/users/tx2._hee00">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 <p align="center">
-  📫 How to reach me 
- s24054@gsm.hs.kr
+  📫 How to reach me: s24054@gsm.hs.kr
 </p>
 
 <h3 align="center">What I'm learning and using</h3>
@@ -62,4 +64,3 @@ The final destination is DBA</h3>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hea97" alt="GitHub Streak Stats" />
 </p>
-
