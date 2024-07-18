@@ -44,16 +44,6 @@ The final destination is DBA</h3>
   </a>
 </p>
 
-<!-- GitHub Readme Stats - Top Languages -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hea97&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- GitHub Readme Stats - General Stats -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hea97&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 <!-- GitHub Readme Streak Stats -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hea97" alt="GitHub Streak Stats" />
