@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm taehee</h1>
 <h3 align="center">I'm a student at GSM and I'm studying DB.
-The final destination is DBA</h3>
+The final destination is DBA (DE, Devops)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/">
