@@ -46,6 +46,11 @@
 <!-- GitAnimals 배너 추가 -->
 <div align="center">
     <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/hea97"/>
-    </a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hea97"
+    width="600"
+    height="200"
+  />
 </div>
