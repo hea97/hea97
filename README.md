@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는.. GSW 8th Heo Taehee </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 전공  Data Engineer(DE), Devops, 좋아하는 것 커피챗☕</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 전공  Data Engineer(DE), Devops, 좋아하는 것 커피챗☕, heea0907.engr@gmail.com</div> 
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
