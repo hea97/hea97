@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1d1,100:b8d3ff&height=120&text=hea97%20Github😺&animation=fadeIn&fontColor=ea8a8a&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1d1,100:b8d3ff&height=120&text=hea97%20Github🐰&animation=fadeIn&fontColor=ea8a8a&fontSize=50" />
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는.. GSW 8th Heo Taehee </h2>  
