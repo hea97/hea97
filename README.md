@@ -1,56 +1,62 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1d1,100:b8d3ff&height=120&text=hea97%20Github🐰&animation=fadeIn&fontColor=ea8a8a&fontSize=50" />
-</div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는.. GSW 8th Heo Taehee </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 전공  Data Engineer(DE), Devops, 좋아하는 것 커피챗☕, heea0907.engr@gmail.com</div> 
-</div>
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> 
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-        <br/>
-    </div>
-</div>
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> 
-        <a href=https://hea97.tistory.com/> 
-            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://hea97.tistory.com/"> 
-        </a>
-        <a href=https://coordinated-flame-0eb.notion.site/DE-Devops-6b8785888370472484978b6f48d6b76d?pvs=4> 
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://coordinated-flame-0eb.notion.site/DE-Devops-6b8785888370472484978b6f48d6b76d?pvs=4"> 
-        </a>
-        <a href=mailto:heea0907.engr@gmail.com> 
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heea0907.engr@gmail.com"> 
-        </a>
-    </div>  
-    <br> 
-    <div align= "center"> 
-        <a href="https://hits.seeyoufarm.com"> 
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhea97%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
-    </div> 
-</div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hea97&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    </div> 
+<h2 align="left">Heo Taehee🐰 | 커피챗을 좋아하는 엔지니어 입니다.</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
-<!-- GitAnimals 배너 추가 -->
+###
+
+<div align="left">
+  <a href="heea0907.engr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hea97/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
-    <a href="https://github.com/devxb/gitanimals">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hea97"
-    width="600"
-    height="200"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hea97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hea97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hea97&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/hea97?pet-id=620912868011776533"
+        width="600"
+        height="120"
+      />
+    </a>
+  </div>
+  
+  <div>
+    <img 
+      height="200" 
+      src="https://github.com/hea97/hea97/blob/main/d360f1827f7996e9e0a3ccb6f584c848.gif"
+    />
+  </div>
+</div>
+  
+
+###
+
+<p align="left">email | heea0907.engr@gamil.com</p>
+
+###
