@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          node-version: '20'  # Node.js 20 명시적으로 설정
 
       - uses: Platane/snk@v3
         with:
