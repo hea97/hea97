@@ -8,18 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+    permissions: 
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          node-version: '20'
-          
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -28,5 +25,5 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          branch: main
-          message: 'Generate Snake'
+          message: '🐍 Generate Snake'
+          add: 'dist'
