@@ -1,5 +1,11 @@
 <h2 align="left">Heo Taehee🐰 | 커피챗을 좋아하는 엔지니어 입니다.</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hea97/hea97/output/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hea97/hea97/output/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hea97/hea97/output/dist/github-snake.svg">
+</picture>
+
 ###
 
 <div align="left">
@@ -62,8 +68,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hea97/hea97/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hea97/hea97/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hea97/hea97/output/github-snake.svg" />
-</picture>
