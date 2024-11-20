@@ -38,11 +38,11 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/lines/hea97?pet-id=620912868011776533"
-        width="600"
-        height="120"
-      />
+<img
+  src="https://render.gitanimals.org/farms/hea97"
+  width="800"
+  height="400"
+/>
     </a>
   </div>
   
