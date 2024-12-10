@@ -1,4 +1,4 @@
-<h2 align="left">Heo Taehee🐰 | 커피챗을 좋아하는 엔지니어 입니다.</h2>
+<h2 align="left">Heo Taehee🐰 | 커피챗을 좋아하는 엔지니어 입니다.🐾</h2>
 
 ###
 
