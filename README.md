@@ -24,36 +24,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hea97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hea97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hea97&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hea97"
-  width="800"
-  height="400"
-/>
-    </a>
-  </div>
-  
-  <div>
-    <img 
-      height="200" 
-      src="https://github.com/hea97/hea97/blob/main/d360f1827f7996e9e0a3ccb6f584c848.gif"
-    />
-  </div>
-  
-</div>
   
 
 ###
