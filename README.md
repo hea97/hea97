@@ -44,15 +44,6 @@ A baseball-inspired English typing and diary learning project.
 
 ---
 
-## system_status
-
-- codex pet: **online** 🟢
-- curiosity: **high**
-- mode: **building**
-- mission: **learn, build, explore**
-
----
-
 ## contact.exe
 
 - GitHub: [@hea97](https://github.com/hea97)
