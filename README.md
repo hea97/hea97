@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/heeay-lab-banner.png" alt="HEA97 LAB OS banner" width="100%" />
+  <img src="https://github.com/hea97/hea97/blob/main/HEA97%20LAB%20OS%20banner.png" alt="HEA97 LAB OS banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm hea97 👾</h1>
@@ -7,10 +7,6 @@
 <p align="center">
   AI · Data · Neuroscience <br/>
   Building small experiments with curiosity, code, and ideas.
-</p>
-
-<p align="center">
-  <img src="./assets/codex-pet-avatar.png" alt="codex pet" width="180" />
 </p>
 
 ---
